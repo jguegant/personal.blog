@@ -33,3 +33,6 @@ MENUITEMS = (('Archives', SITEURL + '/archives.html'),
 LINKS = (
 #            ('Technical/Professional Blog', 'http://jguegant.github.io/blogs/tech/'),
         )
+
+GOOGLE_ANALYTICS = 'UA-68827527-1'
+DISQUS_SITENAME = 'jeanguegantswebsite'
