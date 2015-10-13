@@ -24,7 +24,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-            ('Technical/Professional Blog', 'http://jguegant.github.io/blogs/tech/'),
+#            ('Technical/Professional Blog', 'http://jguegant.github.io/blogs/tech/'),
         )
 
 # Menu
