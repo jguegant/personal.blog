@@ -29,3 +29,7 @@ MENUITEMS = (('Archives', SITEURL + '/archives.html'),
              ('Categories', SITEURL + '/categories.html'),
              ('Tags', SITEURL + '/tags.html'),
              ('Technical/Professional Blog', 'http://jguegant.github.io/blogs/tech/'),)
+
+LINKS = (
+            ('Technical/Professional Blog', 'http://jguegant.github.io/blogs/tech/'),
+        )
