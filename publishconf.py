@@ -31,5 +31,5 @@ MENUITEMS = (('Archives', SITEURL + '/archives.html'),
 
 
 LINKS = (
-            ('Technical/Professional Blog', SITEURL + '/blogs/tech/'),
+        ('Technical/Professional Blog', 'http://jguegant.github.io//blogs/tech/'),
         )
