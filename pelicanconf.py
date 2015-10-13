@@ -32,7 +32,8 @@ USE_FOLDER_AS_CATEGORY = True
 MAIN_MENU = True
 MENUITEMS = (('Archives', SITEURL + '/archives.html'),
              ('Categories', SITEURL + '/categories.html'),
-             ('Tags', SITEURL + '/tags.html'),)
+             ('Tags', SITEURL + '/tags.html'),
+             ('Technical/Professional Blog', 'http://jguegant.github.io//blogs/tech/'),)
 
 DEFAULT_PAGINATION = 10
 
