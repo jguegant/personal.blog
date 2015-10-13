@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Jean Guegant'
 SITENAME = u"Jean Guegant's Blog"
 SITETITLE = AUTHOR
-SITESUBTITLE = u'My various personal activities and stories.'
+SITESUBTITLE = u'My various personal activities and stories. My passions, my sports, my family, my friends and my fooes.'
 SITEURL = 'http://localhost:8000'
 SITELOGO = SITEURL + '/images/myself.png'
 
@@ -24,7 +24,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-        # ('You can modify those links in your config file', '#'),
+            ('Technical/Professional Blog', SITEURL + '/blogs/tech/'),
         )
 
 # Menu

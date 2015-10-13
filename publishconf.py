@@ -28,3 +28,8 @@ DELETE_OUTPUT_DIRECTORY = True
 MENUITEMS = (('Archives', SITEURL + '/archives.html'),
              ('Categories', SITEURL + '/categories.html'),
              ('Tags', SITEURL + '/tags.html'),)
+
+
+LINKS = (
+            ('Technical/Professional Blog', SITEURL + '/blogs/tech/'),
+        )
